@@ -19,6 +19,3 @@
 <h3 align="left">Language</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinesmet&show_icons=true&locale=en&layout=compact" alt="antoinesmet" /></p>
 
-<br/>
-<h3 align="left">Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinesmet&show_icons=true&locale=en" alt="antoinesmet" /></p>
