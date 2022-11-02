@@ -15,7 +15,9 @@
 <p align="left">
 <a href="https://twitter.com/antoine_smet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antoine_smet" height="30" width="40" /></a>
 </p>
+<p align="left">
 <h3 align="left">Language</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinesmet&show_icons=true&locale=en&layout=compact" alt="antoinesmet" /></p>
+<p align="left">
 <h3 align="left">Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinesmet&show_icons=true&locale=en" alt="antoinesmet" /></p>
