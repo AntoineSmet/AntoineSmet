@@ -2,8 +2,6 @@
 <h3 align="center">Developer who loves AI & likes to prototype</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinesmet&label=Profile%20views&color=0e75b6&style=flat" alt="antoinesmet" /> </p>
-p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinesmet&show_icons=true&locale=en&layout=compact" alt="antoinesmet" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinesmet&show_icons=true&locale=en" alt="antoinesmet" /></p>
 
 - 🫀 I’m currently working at **MIC**
 
@@ -17,3 +15,6 @@ p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?us
 <p align="left">
 <a href="https://twitter.com/antoine_smet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antoine_smet" height="30" width="40" /></a>
 </p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinesmet&show_icons=true&locale=en&layout=compact" alt="antoinesmet" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinesmet&show_icons=true&locale=en" alt="antoinesmet" /></p>
