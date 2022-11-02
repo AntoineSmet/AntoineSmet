@@ -15,7 +15,7 @@
 
 ### Network
 <p align="left">
-<p align="center"> <a href="https://twitter.com/antoine_smet" target="blank"><img src="https://img.shields.io/twitter/follow/antoine_smet?logo=twitter&style=for-the-badge" alt="antoine_smet" /></a> </p>
+<p align="left"> <a href="https://twitter.com/antoine_smet" target="blank"><img src="https://img.shields.io/twitter/follow/antoine_smet?logo=twitter&style=for-the-badge" alt="antoine_smet" /></a> </p>
 
 
 ### Language 
