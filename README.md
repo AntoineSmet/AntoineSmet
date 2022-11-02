@@ -1,7 +1,7 @@
 <h1 align="center">Antoine Smet</h1>
 <h3 align="center">Developer - AI & prototype lover</h3>
 
-![MasterHead](https://pbs.twimg.com/media/FgYgPQ5XwAEIBCh?format=png&name=900x900)
+![MasterHead](https://pbs.twimg.com/profile_banners/1327210081/1661847635/1500x500)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinesmet&label=Profile%20views&color=green&style=plastic&style=for-the-badge" alt="antoinesmet" /> </p>
 
