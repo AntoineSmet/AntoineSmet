@@ -1,25 +1,33 @@
 <h1 align="center">Antoine Smet</h1>
 <h3 align="center">Developer - AI & prototype lover</h3>
 
+
+
+<p align="center">🫀 I’m currently working at MIC<br><br>    🦝 I collaborate with Microsoft</p>
+
 ![MasterHead](https://pbs.twimg.com/profile_banners/1327210081/1661847635/1500x500)
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinesmet&label=Profile%20views&color=green&style=plastic&style=for-the-badge" alt="antoinesmet" /> </p>
+# 🐐 I’m currently working on
 
-- 🫀 I’m currently working at **MIC**
-
-- 🦝 I collaborate with **Microsoft**
-
-
-### Languages and Tools 
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-### Network
-<p align="left">
-<p align="left"> <a href="https://twitter.com/antoine_smet" target="blank"><img src="https://img.shields.io/twitter/follow/antoine_smet?logo=twitter&style=for-the-badge" alt="antoine_smet" /></a> </p>
+ - [Dimension Swap](https://github.com/micbelgique/DimensionSwap) 
+ - [The Good Place](https://github.com/micbelgique/TheGoodPlace)
+ - [Deep Eyes](https://github.com/micbelgique/Deepeyes)
 
 
-### Language 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinesmet&show_icons=true&locale=en&layout=compact&theme=gotham" alt="antoinesmet" /></p>
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 
-[![@AntoineSmet's Holopin board](https://holopin.me/antoinesmet)](https://holopin.io/@antoinesmet)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineSmet&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoinesmet" alt="antoinesmet" /></a> </p>
+
+# 🕸️ Network
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/antoinesmet/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/antoine_smet) 
+
+
+
+
+
 
